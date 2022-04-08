@@ -16,5 +16,5 @@ password
   pk *String # userId
 
 note
-  pk *String  # userId
-  sk **String # noteId
+  pk *String  # noteId
+  sk **String # userId
